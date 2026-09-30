@@ -25,3 +25,4 @@ Supervised_and_unsupervised_learning/
 - **Method**: K-Means with elbow + silhouette to choose K
 - **Viz**: PCA → 2D scatter plot with cluster labels
 - **Goal**: Identify and interpret natural groupings in the data
+
